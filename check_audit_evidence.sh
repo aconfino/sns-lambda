@@ -2,7 +2,6 @@
 
 #Quick script for a POC, nothing more
 
-ls
 
 if [ -f target/surefire-reports/*.xml ]
 then
